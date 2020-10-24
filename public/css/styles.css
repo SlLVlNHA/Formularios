@@ -1,0 +1,29 @@
+label {
+  display: inline-block;
+}
+
+#etiqueta {
+  padding: 6px 0px 0px 0px;
+  display: inline-block;	
+}
+
+.container {
+  border-radius: 5px;
+  padding: 20px;
+  text-align: center;
+}
+
+  
+
+.containerX {
+  border-radius: 5px;
+  padding: 15px;
+  background-color: #e5e8e8;
+}
+
+.containerY {
+  border-radius: 5px;
+  padding: 15px;
+  background-color: #d0ece7;
+}
+
